@@ -1,5 +1,5 @@
 let Bad_Guy: Sprite = null
-scene.setBackgroundColor(9)
+scene.setBackgroundColor(1)
 let Person = sprites.create(img`
     . f f f . 
     . f f f . 
